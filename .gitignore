@@ -3,3 +3,6 @@ __pycache__/
 
 # Ignore venv folder
 venv/
+
+#database
+data.db
